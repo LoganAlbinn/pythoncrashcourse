@@ -13,7 +13,7 @@ Another way we can add comments is by using triple apostrophes above and below a
 # print() writes out whatever is within the parenthesis to the output stream.
 # Try pressing the Run button (looks like a play button in the upper right of VSCode)
 
-print("Hello World")
+print(Father)
 
 # you should see "Hello World" in the output.
 
@@ -25,6 +25,7 @@ print("Hello World")
 # Try writing Hello World in the print() without the quotes, saving, and running what happens?
 # Why do you think the error occurs?
 
+# I got a NameError: 'Father' is not defined
 
 # AS YOUR READ THROUGH EACH SCRIPT, WHEN YOU FINISH, BE SURE TO RUN THE SCRIPT AND READ THE OUTPUT TO SEE WHAT IS GOING ON.
 

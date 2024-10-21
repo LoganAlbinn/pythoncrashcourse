@@ -11,5 +11,5 @@ def double(num):
 
 num = 10
 
-print("The number is:",num, "The number doubled is", double(num))
+print("The number is:",10, "The number doubled is", double(10))
 
